@@ -57,13 +57,12 @@ Cyware achieving 92% detection accuracy. SIEM tooling with Splunk and Azure Sent
 ## Education
 
 MS Computer Software Engineering : Northeastern University (Dec 2026)
+
 BE Mechanical Engineering : Bapuji Institute of Engineering and Technology (2021)
 
 ---
 
-![Streak Stats](https://streak-stats.demolab.com?user=Gagancm&theme=dark&hide_border=true&background=0D1117&ring=B94539&fire=B94539&currStreakLabel=E0E0E0&dates=888888&sideLabels=E0E0E0)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagancm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=B94539&icon_color=B94539&text_color=E0E0E0&hide_rank=true&include_all_commits=true&count_private=true)
+![Streak Stats](https://streak-stats.demolab.com?user=Gagancm&theme=dark&hide_border=true&background=0D1117&ring=B94539&fire=B94539&currStreakLabel=E0E0E0&dates=888888&sideLabels=E0E0E0)             ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagancm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=B94539&icon_color=B94539&text_color=E0E0E0&hide_rank=true&include_all_commits=true&count_private=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagancm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B94539&line=B94539&point=FFFFFF&area=true&area_color=B94539)
 
