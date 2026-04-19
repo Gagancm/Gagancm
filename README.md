@@ -1,7 +1,7 @@
 # Gagan Chigateri Mahadeswara
 
 Software engineer focused on security, cloud infrastructure, and developer tooling.
-Currently finishing my MS in Computer Software Engineering at Northeastern University.
+Currently finishing my MS in Computer Software Engineering at Northeastern University. [Personal website](https://overgeared.me/)
 
 ---
 
@@ -70,4 +70,4 @@ BE Mechanical Engineering : Bapuji Institute of Engineering and Technology (2021
 [LinkedIn](https://www.linkedin.com/in/gagancm/) •
 [Arcis](https://gagancm.github.io/arcis/) •
 [Behance](https://www.behance.net/gagancm) •
-[Blog](https://overgeared.me/)
+[Personal website](https://overgeared.me/)
