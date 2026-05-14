@@ -4,7 +4,7 @@ Software engineer focused on security, cloud infrastructure, and developer tooli
 Currently finishing my MS in Computer Software Engineering at Northeastern University.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gagancm&color=B94539&style=flat&label=Profile+Views)
-[![Portfolio](https://img.shields.io/badge/Portfolio-overgeared.me-B94539?style=flat)](https://overgeared.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-overgeared.me-B94539?style=flat)](https://gagancm.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gagancm-B94539?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagancm/)
 
 ---
@@ -127,6 +127,6 @@ go get github.com/Gagancm/arcis  # Go
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/gagancm/) · [Arcis](https://gagancm.github.io/arcis/) · [Behance](https://www.behance.net/gagancm) · [Portfolio](https://overgeared.me/)
+[LinkedIn](https://www.linkedin.com/in/gagancm/) · [Arcis](https://gagancm.github.io/arcis/) · [Behance](https://www.behance.net/gagancm) · [Portfolio](https://gagancm.github.io/)
 
 </div>
